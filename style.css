@@ -1,0 +1,24 @@
+h1{
+    color:slateblue;
+}
+
+.header{
+    display:flex;
+    background-color :black;
+    justify-content: space-between;
+}
+
+.grid{
+    display:flex;
+    background-color:whitesmoke;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.origami{
+    color:peru;
+}
+
+p,li,ul{
+    text-align: center;
+}
